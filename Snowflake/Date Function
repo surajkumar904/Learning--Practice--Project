@@ -136,5 +136,4 @@ select datediff('MONTH', '2022-06-01',CURRENT_DATE);
 select datediff('YEAR', '2014-06-01',CURRENT_DATE);
 
 
-27th Nov FSDA2.0(Date_Time_Snowflake).sql
-Displaying 27th Nov FSDA2.0(Date_Time_Snowflake).sql.
+
